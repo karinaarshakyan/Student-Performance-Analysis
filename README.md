@@ -1,6 +1,6 @@
 #Student Performance Analysis Project
 
-Our project analyzes factors affecting student exam performance.
+The project analyzes factors affecting student exam performance.
  
 Technologies used:
 - Pandas
