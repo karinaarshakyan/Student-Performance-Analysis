@@ -1,4 +1,4 @@
-#Student Performance Analysis Project
+# Student Performance Analysis Project
 
 The project analyzes factors affecting student exam performance.
  
